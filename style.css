@@ -66,6 +66,14 @@ a:hover {
   cursor: default;
 }
 
+.btn{
+  font-size: 1rem;
+}
+
+.section__text__p1{
+  font-size: 2rem;
+}
+
 /* HAMBURGER MENU */
 
 #hamburger-nav {
